@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.png';
+import logo from './LOGO.png';
 import './styles.css';
 
 const Logo = () => (
@@ -7,11 +7,11 @@ const Logo = () => (
     <div>
       <img src={logo} alt='logo' />
       <span>
-        <b>Taste</b>
+        <b>Menu-Us</b>
       </span>
     </div>
     <p>
-      <b>Restaurant & BBQ</b>
+      <b>Food To Your Home</b>
     </p>
   </div>
 );
